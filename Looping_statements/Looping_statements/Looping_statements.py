@@ -41,9 +41,13 @@ for steps in ['red','blue','green','yellow']:
     turtle.color(steps)     #what a feature !!
     turtle.forward(200)   
     turtle.left(90)
+    turtle.speed(1)
     #if steps == 'yellow' :
     #    turtle.forward(100)
     #    turtle.right(90)
+  
     
 
-    turtle.speed(1)
+    #Read All the data : unknown times
+    #its challenge
+
