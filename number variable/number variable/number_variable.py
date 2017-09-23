@@ -27,7 +27,12 @@
 
 
 #Adding two numbers..
-num1=int(input('Enter number 1 : '))
-num2=int(input("Enter number 2 : "))
-sum=num1+num2
-print("Sum of  {0:d} and {1:d} is : {2:d}".format(num1,num2,sum))
+#num1=int(input('Enter number 1 : '))  
+#num2=int(input("Enter number 2 : "))
+#sum=num1+num2
+#print("Sum of  {0:d} and {1:d} is : {2:d}".format(num1,num2,sum))
+
+# use of semicolon
+#use like seperator but not manodatory 
+
+num=5; mult = num*num ; print(mult)
