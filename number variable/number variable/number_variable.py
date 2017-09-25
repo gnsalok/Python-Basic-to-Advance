@@ -33,6 +33,6 @@
 #print("Sum of  {0:d} and {1:d} is : {2:d}".format(num1,num2,sum))
 
 # use of semicolon
-#use like seperator but not manodatory 
+#use like seperator but not terminator
 
 num=5; mult = num*num ; print(mult)
