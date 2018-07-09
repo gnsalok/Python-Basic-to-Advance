@@ -1,7 +1,9 @@
 # Python-Basic-to-Advance
-This Repos having the contents of zero to hero in python
 
-#It is very helpful for those student who start the python from very basic 
-and I wanna to come with my youtube playlist as well
+#The contents of this repos organised in the way that it's easy to learn from the very basic to advance.
+#Contents like Dealing with Arithmetics, Strings,.format function, Looping Statements, Conditional statements, Function and OOPS concepts.
+#Some very popular library like Numpy, Pandas, Matplotlib are also available in this Repos.
 
-#Keep learning
+
+Enjoy Learning...
+Good  Luck
