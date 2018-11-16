@@ -7,5 +7,5 @@ def main():
         print('{} square is {}'.format(i,square(i)))
 
 
-# if __name__ == "__main__":
-#     main()
+if __name__ == "__main__":
+    main()
