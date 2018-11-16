@@ -20,8 +20,7 @@ class Employee(Person):
     
 class PartTimeEmployee(Employee):
     
-    def __intit__(self,first,last,salary):
-        
+    def __intit__(self,first,last,salary): 
         Employee.__init__(self,first,last)  
         self.EmpSalary=salary
         

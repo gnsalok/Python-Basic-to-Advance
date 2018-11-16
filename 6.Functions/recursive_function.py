@@ -5,9 +5,7 @@ When a function calls itself then that called the recursive function and that
 situation is called as Recursion.
 '''
 
-
 # Just try to print factorial of number using Recursion.
-
 
 def factorial(value):
     if value<=1:

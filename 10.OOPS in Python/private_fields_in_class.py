@@ -6,7 +6,7 @@ class Complex:
     def __init__(self,real=0,imag=0):
         if(type(real) not in (int,float)) or type(imag) not in (int,float) :
             raise Exception('Arguments are not valid!')
-        self.__real=real        #This is gonna to your private field
+        self.__real=real        #This is gonna to your private field  (__real)
         self.__imag=imag
     def getReal(self):
         return self.__real       
