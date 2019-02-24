@@ -24,3 +24,9 @@ resultMult = lambda a : lambda b : lambda c : a*b*c
 print(resultMult(5)(2)(5)) # Reslults 50
 
 '''
+
+
+getName = lambda  name : name
+
+
+print(getName('Alok'))

@@ -1,4 +1,4 @@
-#Working with Exception : Exception Handling ...
+# Working with Exception : Exception Handling ...
 
 '''
 
@@ -14,14 +14,12 @@ finally:
 '''
 
 
-try:  
-    value=int(input("Enter an integer value?"))
+try:
+    value = int(input("Enter an integer value?"))
 
 except Exception as e:
     print(e)
-    
+
+ # This will going to execute
 finally:
     print("typecasting successfull")
-
-
-
