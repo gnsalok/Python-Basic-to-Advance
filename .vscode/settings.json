@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe"
+=======
     "python.pythonPath": "C:\\Users\\aloktrip\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "python.linting.banditEnabled": false,
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
+>>>>>>> f4a3bc1506b637fe14b0170596fb6e2769b6c46a
 }
