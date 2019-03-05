@@ -9,6 +9,7 @@ Logic:
 from LinkedList.singlyLL import SinglyLL
 
 
+
 def find_middle(head):
     """ Find middle element in a linkedlist """
     slow_node = head
