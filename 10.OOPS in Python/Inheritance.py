@@ -13,14 +13,14 @@ class Employee(Person):
 
     def __init__(self, first, last, staffnum):  #Employee constructor
         Person.__init__(self,first, last)   #calling the Person constructor
-        self.staffnumber = staffnum 
+        self.staffnumber = staffnum  #adding extra feature here
 
     def GetEmployee(self):
         return self.displayName() + ", " +  self.staffnumber
     
 class PartTimeEmployee(Employee):
     
-    def __intit__(self,first,last,salary): 
+    def __init__(self,first,last,salary): 
         Employee.__init__(self,first,last)  
         self.EmpSalary=salary
         
