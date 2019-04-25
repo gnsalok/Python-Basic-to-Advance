@@ -1,5 +1,9 @@
 # using .formate() method
 
+value=1
+
+print(f'something {value}')   #python new feature 
+
 print("Today we have to finish atleast {0} chapters of the {1}"
       .format(3,"Python"))
 

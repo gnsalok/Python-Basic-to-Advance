@@ -6,7 +6,6 @@ Class variable - It could be access by the class and Instance as well.
 
 '''
 
-
 class Employee:
     no_emps = 0
     raise_amount = 1.04
