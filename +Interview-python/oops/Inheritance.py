@@ -1,6 +1,6 @@
 class Employee:
 
-    raise_amt = 1.04
+    raise_amt = 1.04   #class property 
 
     def __init__(self, first, last, pay):
         self.first = first

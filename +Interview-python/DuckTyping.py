@@ -19,6 +19,8 @@ class Eagle:
         print("Dude i just fly")
 
 
+
+#Duck Typing implemantation is here 
 class MakeItQuack:
     def __init__(self, bird):
         bird.quack()
