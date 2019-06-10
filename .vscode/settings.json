@@ -2,4 +2,7 @@
     "python.pythonPath": "C:\\Users\\aloktrip\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "python.formatting.autopep8Path": "autopep8",
     "python.linting.enabled": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": true,
+    
 }
