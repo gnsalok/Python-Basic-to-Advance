@@ -5,8 +5,9 @@ H E L L O
 0,1,2,3,4
 -5,-4,-3,-2,-1
 
-
 '''
+
+
 # Code
 
 
@@ -21,5 +22,5 @@ H E L L O
 # Sentence = "GOG is good to learn"
 # print(reverseWordSentence(Sentence)
 
-word = 'Hello'
-print(word[::-2])
+str = "ALOK TRIPATHI"
+print(str[::-1])
