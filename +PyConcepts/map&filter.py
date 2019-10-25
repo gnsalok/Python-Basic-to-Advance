@@ -15,9 +15,7 @@ prices = list(map(lambda items: item[1], items))
 expensive_items = list(filter(lambda item: item[1] >= 10, items))
 
 
-
-
-# #Example 
+# #Example
 
 # values = [2,3,4,5,6]
 
@@ -26,4 +24,3 @@ expensive_items = list(filter(lambda item: item[1] >= 10, items))
 
 # result = list(map(double,values))
 # print(result)
-

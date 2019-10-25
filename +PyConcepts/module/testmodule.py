@@ -1,3 +1,8 @@
+import main
 
 def test():
-    print("This is from test module!")
+    print("Running test module...")
+
+
+test()
+print(__name__)
