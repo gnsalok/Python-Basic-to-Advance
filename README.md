@@ -1,16 +1,23 @@
-# Python-Basic-to-Advance
+## Python-Basic-to-Advance
 
-#The contents of this repos organised in the way that it's easy to learn from the very basic to advance.
+### Basics : Contains all the Basics related to the Python including File Handling, Exceptions, Functions, OOPs, NumPy, Data Visualization etc.
 
-#Contents like Dealing with Arithmetics, Strings,.format function, Looping Statements, Conditional statements, Function and OOPS concepts.
+### CS-50 : It contains practicals of Web Programming conecpts taught in CS-50
 
-#Some very popular library like Numpy, Pandas, Matplotlib are also available in this Repos.
-
-#adding flask-app directory 
+### DS - Algo contains Data Structure and Algorithms in Python
 
 
+### PyConcepts : it contains features of Python 
+
+
+### WhatsNew : Contains new features added in python
 
 
 
-Enjoy Learning...
-Good  Luck
+
+#### Created and Modified by : Alok Tripathi  (gnsalok)
+
+
+
+
+
