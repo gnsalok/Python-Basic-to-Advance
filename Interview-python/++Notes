@@ -25,4 +25,5 @@
 
 [Array, List , Strings, Linked-List, Trees (with it's type), Graph]
 
-20. prog20 :   
+20. prog20 : program to reverse given number including 0.
+21. prog21 : split string based on whitespace.
