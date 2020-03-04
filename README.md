@@ -13,8 +13,6 @@
 ### WhatsNew : Contains new features added in python
 
 
-
-
 #### Created and Modified by : Alok Tripathi  (gnsalok)
 
 
