@@ -1,3 +1,1 @@
-Line 1 - THIS IS A TEST FILE
-Line 2
-Line 3 - OMG THIS WORKS
+Wrting test inside the fileWrting test inside the file

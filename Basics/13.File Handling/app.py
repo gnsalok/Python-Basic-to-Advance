@@ -2,9 +2,9 @@
 
 import os
 
-# To Check file of directory exits or not
+#To Check file of directory exits or not
 
-# print(os.path.isfile('./main.py'))
+print(os.path.isfile('./main.py'))
 
 
 #To walk directory
