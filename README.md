@@ -20,7 +20,6 @@
 ###### Follow me : 
 Instagram : https://www.instagram.com/datanerd_/
 YouTube : https://www.youtube.com/aloktripathi
->>>>>>> 08938df3141010bf873a6d5d396529a14daba5e6
 
 
 
